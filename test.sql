@@ -1,0 +1,1 @@
+update spinnerDB.class set className='KY BANDS' where classid=7;
